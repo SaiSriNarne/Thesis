@@ -1,0 +1,46 @@
+	en
+0	"I am an astrodynamicist — you know, like that guy Rich Purnell in the movie ""The Martian."""
+1	And it's my job to study and predict motion of objects in space.
+2	Currently we track about one percent of hazardous objects on orbit — hazardous to services like location, agriculture, banking, television and communications, and soon — very soon — even the internet itself.
+3	Now these services are not protected from, roughly, half a million objects the size of a speck of paint all the way to a school bus in size.
+4	A speck of paint, traveling at the right speed, impacting one of these objects, could render it absolutely useless.
+5	But we can't track things as small as a speck of paint.
+6	We can only track things as small as say, a smartphone.
+7	So of this half million objects that we should be concerned about, we can only track about 26,000 of these objects.
+8	And of these 26,000, only 2,000 actually work.
+9	Everything else is garbage.
+10	That's a lot of garbage.
+11	To make things a little bit worse, most of what we launch into orbit never comes back.
+12	We send the satellite in orbit, it stops working, it runs out of fuel, and we send something else up ... and then we send up something else ... and then something else.
+13	And every once in a while, two of these things will collide with each other or one of these things will explode, or even worse, somebody might just happen to destroy one of their satellites on orbit, and this generates many, many more pieces, most of which also never come back.
+14	Now these things are not just randomly scattered in orbit.
+15	It turns out that given the curvature of space-time, there are ideal locations where we put some of these satellites — think of these as space highways.
+16	Very much like highways on earth, these space highways can only take up a maximum capacity of traffic to sustain space-safe operations.
+17	Unlike highways on earth, there are actually no space traffic rules.
+18	None whatsoever, OK?
+19	Wow.
+20	What could possibly go wrong with that?
+21	(Laughter)
+22	Now, what would be really nice is if we had something like a space traffic map, like a Waze for space that I could look up and see what the current traffic conditions are in space, maybe even predict these.
+23	"The problem with that, however, is that ask five different people, ""What's going on in orbit?"
+24	"Where are things going?"""
+25	and you're probably going to get 10 different answers.
+26	Why is that?
+27	It's because information about things on orbit is not commonly shared either.
+28	So what if we had a globally accessible, open and transparent space traffic information system that can inform the public of where everything is located to try to keep space safe and sustainable?
+29	And what if the system could be used to form evidence-based norms of behavior — these space traffic rules?
+30	So I developed ASTRIAGraph, the world's first crowdsourced, space traffic monitoring system at the University of Texas at Austin.
+31	ASTRIAGraph combines multiple sources of information from around the globe — government, industry and academia — and represents this in a common framework that anybody can access today.
+32	Here, you can see 26,000 objects orbiting the earth, multiple opinions, and it gets updated in near real time.
+33	But back to my problem of space traffic map: What if you only had information from the US government?
+34	Well, in that case, that's what your space traffic map would look like.
+35	But what do the Russians think?
+36	That looks significantly different.
+37	Who's right?
+38	Who's wrong?
+39	What should I believe?
+40	What could I trust?
+41	This is part of the issue.
+42	In the absence of this framework to monitor space-actor behavior, to monitor activity in space — where these objects are located — to reconcile these inconsistencies and make this knowledge commonplace, we actually risk losing the ability to use space for humanity's benefit.
+43	Thank you very much.
+44	(Applause and cheers)

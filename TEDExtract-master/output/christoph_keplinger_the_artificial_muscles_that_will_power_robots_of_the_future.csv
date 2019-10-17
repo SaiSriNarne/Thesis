@@ -1,0 +1,106 @@
+	en
+0	In 2015, 25 teams from around the world competed to build robots for disaster response that could perform a number of tasks, such as using a power tool, working on uneven terrain and driving a car.
+1	That all sounds impressive, and it is, but look at the body of the winning robot, HUBO.
+2	Here, HUBO is trying to get out of a car, and keep in mind, the video is sped up three times.
+3	(Laughter)
+4	HUBO, from team KAIST out of Korea, is a state-of-the-art robot with impressive capabilities, but this body doesn't look all that different from robots we've seen a few decades ago.
+5	If you look at the other robots in the competition, their movements also still look, well, very robotic.
+6	Their bodies are complex mechanical structures using rigid materials such as metal and traditional rigid electric motors.
+7	They certainly weren't designed to be low-cost, safe near people and adaptable to unpredictable challenges.
+8	We've made good progress with the brains of robots, but their bodies are still primitive.
+9	This is my daughter Nadia.
+10	She's only five years old and she can get out of the car way faster than HUBO.
+11	(Laughter)
+12	She can also swing around on monkey bars with ease, much better than any current human-like robot could do.
+13	In contrast to HUBO, the human body makes extensive use of soft and deformable materials such as muscle and skin.
+14	We need a new generation of robot bodies that is inspired by the elegance, efficiency and by the soft materials of the designs found in nature.
+15	And indeed, this has become the key idea of a new field of research called soft robotics.
+16	My research group and collaborators around the world are using soft components inspired by muscle and skin to build robots with agility and dexterity that comes closer and closer to the astonishing capabilities of the organisms found in nature.
+17	I've always been particularly inspired by biological muscle.
+18	Now, that's not surprising.
+19	I'm also Austrian, and I know that I sound a bit like Arnie, the Terminator.
+20	(Laughter)
+21	Biological muscle is a true masterpiece of evolution.
+22	It can heal after damage and it's tightly integrated with sensory neurons for feedback on motion and the environment.
+23	It can contract fast enough to power the high-speed wings of a hummingbird; it can grow strong enough to move an elephant; and it's adaptable enough to be used in the extremely versatile arms of an octopus, an animal that can squeeze its entire body through tiny holes.
+24	Actuators are for robots what muscles are for animals: key components of the body that enable movement and interaction with the world.
+25	So if we could build soft actuators, or artificial muscles, that are as versatile, adaptable and could have the same performance as the real thing, we could build almost any type of robot for almost any type of use.
+26	Not surprisingly, people have tried for many decades to replicate the astonishing capabilities of muscle, but it's been really hard.
+27	About 10 years ago, when I did my PhD back in Austria, my colleagues and I rediscovered what is likely one of the very first publications on artificial muscle, published in 1880.
+28	"""On the shape and volume changes of dielectric bodies caused by electricity,"" published by German physicist Wilhelm Röntgen."
+29	Most of you know him as the discoverer of the X-ray.
+30	Following his instructions, we used a pair of needles.
+31	We connected it to a high-voltage source, and we placed it near a transparent piece of rubber that was prestretched onto a plastic frame.
+32	When we switched on the voltage, the rubber deformed, and just like our biceps flexes our arm, the rubber flexed the plastic frame.
+33	It looks like magic.
+34	The needles don't even touch the rubber.
+35	Now, having two such needles is not a practical way of operating artificial muscles, but this amazing experiment got me hooked on the topic.
+36	I wanted to create new ways to build artificial muscles that would work well for real-world applications.
+37	For the next years, I worked on a number of different technologies that all showed promise, but they all had remaining challenges that are hard to overcome.
+38	In 2015, when I started my own lab at CU Boulder, I wanted to try an entirely new idea.
+39	I wanted to combine the high speed and efficiency of electrically driven actuators with the versatility of soft, fluidic actuators.
+40	Therefore, I thought, maybe I can try using really old science in a new way.
+41	The diagram you see here shows an effect called Maxwell stress.
+42	When you take two metal plates and place them in a container filled with oil, and then switch on a voltage, the Maxwell stress forces the oil up in between the two plates, and that's what you see here.
+43	So the key idea was, can we use this effect to push around oil contained in soft stretchy structures?
+44	And indeed, this worked surprisingly well, quite honestly, much better than I expected.
+45	Together with my outstanding team of students, we used this idea as a starting point to develop a new technology called HASEL artificial muscles.
+46	HASELs are gentle enough to pick up a raspberry without damaging it.
+47	They can expand and contract like real muscle.
+48	And they can be operated faster than the real thing.
+49	They can also be scaled up to deliver large forces.
+50	Here you see them lifting a gallon filled with water.
+51	They can be used to drive a robotic arm, and they can even self-sense their position.
+52	HASELs can be used for very precise movement, but they can also deliver very fluidic, muscle-like movement and bursts of power to shoot up a ball into the air.
+53	When submerged in oil, HASEL artificial muscles can be made invisible.
+54	So how do HASEL artificial muscles work?
+55	You might be surprised.
+56	They're based on very inexpensive, easily available materials.
+57	You can even try, and I recommend it, the main principle at home.
+58	Take a few Ziploc bags and fill them with olive oil.
+59	Try to push out air bubbles as much as you can.
+60	Now take a glass plate and place it on one side of the bag.
+61	When you press down, you see the bag contract.
+62	Now the amount of contraction is easy to control.
+63	When you take a small weight, you get a small contraction.
+64	With a medium weight, we get a medium contraction.
+65	And with a large weight, you get a large contraction.
+66	Now for HASELs, the only change is to replace the force of your hand or the weight with an electrical force.
+67	"HASEL stands for ""hydraulically amplified self-healing electrostatic actuators."""
+68	Here you see a geometry called Peano-HASEL actuators, one of many possible designs.
+69	Again, you take a flexible polymer such as our Ziploc bag, you fill it with an insulating liquid, such as olive oil, and now, instead of the glass plate, you place an electrical conductor on one side of the pouch.
+70	To create something that looks more like a muscle fiber, you can connect a few pouches together and attached a weight on one side.
+71	Next, we apply voltage.
+72	Now, the electric field starts acting on the liquid.
+73	It displaces the liquid, and it forces the muscle to contract.
+74	Here you see a completed Peano-HASEL actuator and how it expands and contracts when voltage is applied.
+75	Viewed from the side, you can really see those pouches take a more cylindrical shape, such as we saw with the Ziploc bags.
+76	We can also place a few such muscle fibers next to each other to create something that looks even more like a muscle that also contracts and expands in cross section.
+77	These HASELs here are lifting a weight that's about 200 times heavier than their own weight.
+78	Here you see one of our newest designs, called quadrant donut HASELs and how they expand and contract.
+79	They can be operated incredibly fast, reaching superhuman speeds.
+80	They are even powerful enough to jump off the ground.
+81	(Laughter)
+82	Overall, HASELs show promise to become the first technology that matches or exceeds the performance of biological muscle while being compatible with large-scale manufacturing.
+83	This is also a very young technology.
+84	We are just getting started.
+85	We have many ideas how to drastically improve performance, using new materials and new designs to reach a level of performance beyond biological muscle and also beyond traditional rigid electric motors.
+86	Moving towards more complex designs of HASEL for bio-inspired robotics, here you see our artificial scorpion that can use its tail to hunt prey, in this case, a rubber balloon.
+87	(Laughter)
+88	Going back to our initial inspiration, the versatility of octopus arms and elephant trunks, we are now able to build soft continuum actuators that come closer and closer to the capabilities of the real thing.
+89	I am most excited about the practical applications of HASEL artificial muscles.
+90	They'll enable soft robotic devices that can improve the quality of life.
+91	Soft robotics will enable a new generation of more lifelike prosthetics for people who have lost parts of their bodies.
+92	Here you see some HASELs in my lab, early testing, driving a prosthetic finger.
+93	One day, we may even merge our bodies with robotic parts.
+94	I know that sounds very scary at first.
+95	But when I think about my grandparents and the way they become more dependent on others to perform simple everyday tasks such as using the restroom alone, they often feel like they're becoming a burden.
+96	With soft robotics, we will be able to enhance and restore agility and dexterity, and thereby help older people maintain autonomy for longer parts of their lives.
+97	"Maybe we can call that ""robotics for antiaging"" or even a next stage of human evolution."
+98	Unlike their traditional rigid counterparts, soft life-like robots will safely operate near people and help us at home.
+99	Soft robotics is a very young field.
+100	We're just getting started.
+101	I hope that many young people from many different backgrounds join us on this exciting journey and help shape the future of robotics by introducing new concepts inspired by nature.
+102	If we do this right, we can improve the quality of life for all of us.
+103	Thank you.
+104	(Applause)

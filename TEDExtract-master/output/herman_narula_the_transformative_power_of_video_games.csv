@@ -1,0 +1,142 @@
+	en
+0	Hello.
+1	My name is Herman, and I've always been struck by how the most important, impactful, tsunami-like changes to our culture and our society always come from those things that we least think are going to have that impact.
+2	I mean, as a computer scientist, I remember when Facebook was just image-sharing in dorm rooms, and depending upon who you ask, it's now involved in toppling elections.
+3	I remember when cryptocurrency or automated trading were sort of ideas by a few renegades in the financial institutions in the world for automated trading, or online, for cryptocurrency, and they're now coming to quickly shape the way that we operate.
+4	And I think each of you can recall that moment where one of these ideas felt like some ignorable, derisive thing, and suddenly, oh, crap, the price of Bitcoin is what it is.
+5	Or, oh, crap, guess who's been elected.
+6	The reality is that, you know, from my perspective, I think that we're about to encounter that again.
+7	And I think one of the biggest, most impactful changes in the way we live our lives, to the ways we're educated, probably even to how we end up making an income, is about to come not from AI, not from space travel or biotech — these are all very important future inventions — but in the next five years, I think it's going to come from video games.
+8	So that's a bold claim, OK.
+9	I see some skeptical faces in the audience.
+10	But if we take a moment to try to look at what video games are already becoming in our lives today, and what just a little bit of technological advancement is about to create, it starts to become more of an inevitability.
+11	And I think the possibilities are quite electrifying.
+12	So let's just take a moment to think about scale.
+13	I mean, there's already 2.6 billion people who play games.
+14	And the reality is that's a billion more than five years ago.
+15	A billion more people in that time.
+16	No religion, no media, nothing has spread like that.
+17	And there's likely to be a billion more when Africa and India gain the infrastructure to sort of fully realize the possibilities of gaming.
+18	But what I find really special is — and this often shocks a lot of people — is that the average age of a gamer, like, have a guess, think about it.
+19	It's not six, it's not 18, it's not 12.
+20	It's 34.
+21	[Average age of an American gamer] It's older than me.
+22	And that tells us something, that this isn't entertainment for children anymore.
+23	This is already a medium like literature or anything else that's becoming a fundamental part of our lives.
+24	One stat I like is that people who generally picked up gaming in the last sort of 15, 20 years generally don't stop.
+25	Something changed in the way that this medium is organized.
+26	And more than that, it's not just play anymore, right?
+27	You've heard some examples today, but people are earning an income playing games.
+28	And not in the obvious ways.
+29	Yes, there's e-sports, there's prizes, there's the opportunity to make money in a competitive way.
+30	But there's also people earning incomes modding games, building content in them, doing art in them.
+31	I mean, there's something at a scale akin to the Florentine Renaissance, happening on your kid's iPhone in your living room.
+32	And it's being ignored.
+33	Now, what's even more exciting for me is what's about to happen.
+34	And when you think about gaming, you're probably already imagining that it features these massive, infinite worlds, but the truth is, games have been deeply limited for a very long time in a way that kind of we in the industry have tried very hard to cover up with as much trickery as possible.
+35	The metaphor I like to use, if you'd let me geek out for a moment, is the notion of a theater.
+36	For the last 10 years, games have massively advanced the visual effects, the physical immersion, the front end of games.
+37	But behind the scenes, the actual experiential reality of a game world has remained woefully limited.
+38	I'll put that in perspective for a moment.
+39	I could leave this theater right now, I could do some graffiti, get in a fight, fall in love.
+40	I might actually do all of those things after this, but the point is that all of that would have consequence.
+41	It would ripple through reality — all of you could interact with that at the same time.
+42	It would be persistent.
+43	And those are very important qualities to what makes the real world real.
+44	Now, behind the scenes in games, we've had a limit for a very long time.
+45	And the limit is, behind the visuals, the actual information being exchanged between players or entities in a single game world has been deeply bounded by the fact that games mostly take place on a single server or a single machine.
+46	Even The World of Warcraft is actually thousands of smaller worlds.
+47	When you hear about concerts in Fortnite, you're actually hearing about thousands of small concerts.
+48	You know, individual, as was said earlier today, campfires or couches.
+49	There isn't really this possibility to bring it all together.
+50	Let's take a moment to just really understand what that means.
+51	When you look at a game, you might see this, beautiful visuals, all of these things happening in front of you.
+52	But behind the scenes in an online game, this is what it looks like.
+53	To a computer scientist, all you see is just a little bit of information being exchanged by a tiny handful of meaningful entities or objects.
+54	"You might be thinking, ""I've played in an infinite world."""
+55	Well it's more that you've played on a treadmill.
+56	As you've been walking through that world, we've been cleverly causing the parts of it that you're not in to vanish, and the parts of it in front of you to appear.
+57	A good trick, but not the basis for the revolution that I promised you in the beginning of this talk.
+58	But the reality is, for those of you that are passionate gamers and might be excited about this, and for those of you that are afraid and may not be, all of that is about to change.
+59	Because finally, the technology is in place to go well beyond the limits that we've previously seen.
+60	I've dedicated my career to this, there are many others working on the problem — I'd hardly take credit for it myself, but we're at the point now where we can finally do this impossible hard thing of weaving together thousands of disparate machines into single simulations that are convenient enough to not be one-offs, but to be buildable by anybody.
+61	And to be at the point where we can start to experience those things that we can't yet fathom.
+62	Let's just take a moment to visualize that.
+63	I'm talking about not individual little simulations but a massive possibility of huge networks of interaction.
+64	Massive global events that can happen inside that.
+65	Things that even in the real world become challenging to produce at that kind of scale.
+66	And I know some of you are gamers, so I'm going to show you some footage of some things that I'm pretty sure I'm allowed to do, from some of our partners.
+67	TED and me had a back-and-forth on this.
+68	These are a few things that not many people have seen before, some new experiences powered by this type of technology.
+69	I'll just [take] a moment to show you some of this stuff.
+70	This is a single game world with thousands of simultaneous people participating in a conflict.
+71	It also has its own ecosystem, its own sense of predator and prey.
+72	Every single object you see here is simulated in some way.
+73	This is a game being built by one of the biggest companies in the world, NetEase, a huge Chinese company.
+74	And they've made an assistant creative simulation where groups of players can cocreate together, across multiple devices, in a world that doesn't vanish when you're done.
+75	It's a place to tell stories and have adventures.
+76	Even the weather is simulated.
+77	And that's kind of awesome.
+78	And this is my personal favorite.
+79	This is a group of people, pioneers in Berlin, a group called Klang Games, and they're completely insane, and they'll love me for saying that.
+80	And they found a way to model, basically, an entire planet.
+81	They're going to have a simulation with millions of non-player characters and players engaging.
+82	They actually grabbed Lawrence Lessig to help understand the political ramifications of the world they're creating.
+83	This is the sort of astounding set of experiences, well beyond what we might have imagined, that are now going to be possible.
+84	And that's just the first step in this technology.
+85	So if we step beyond that, what happens?
+86	Well, computer science tends to be all exponential, once we crack the really hard problems.
+87	And I'm pretty sure that very soon, we're going to be in a place where we can make this type of computational power look like nothing.
+88	And when that happens, the opportunities ...
+89	It's worth taking a moment to try to imagine what I'm talking about here.
+90	Hundreds of thousands or millions of people being able to coinhabit the same space.
+91	The last time any of us as a species had the opportunity to build or do something together with that may people was in antiquity.
+92	And the circumstances were less than optimal, shall we say.
+93	Mostly conflicts or building pyramids.
+94	Not necessarily the best thing for us to be spending our time doing.
+95	But if you bring together that many people, the kind of shared experience that can create ...
+96	I think it exercises a social muscle in us that we've lost and forgotten.
+97	Going even beyond that, I want to take a moment to think about what it means for relationships, for identity.
+98	If we can give each other worlds, experiences at scale where we can spend a meaningful amount of our time, we can change what it means to be an individual.
+99	We can go beyond a single identity to a diverse set of personal identities.
+100	The gender, the race, the personality traits you were born with might be something you want to experiment differently with.
+101	You might be someone that wants to be more than one person.
+102	We all are, inside, multiple people.
+103	We rarely get the opportunity to flex that.
+104	It's also about empathy.
+105	I have a grandmother who I have literally nothing in common with.
+106	I love her to bits, but every story she has begins in 1940 and ends sometime in 1950.
+107	And every story I have is like 50 years later.
+108	But if we could coinhabit, co-experience things together, that undiminished by physical frailty or by lack of context, create opportunities together, that changes things, that bonds people in different ways.
+109	I'm struck by how social media has amplified our many differences, and really made us more who we are in the presence of other people.
+110	I think games could really start to create an opportunity for us to empathize again.
+111	To have shared adversity, shared opportunity.
+112	I mean, statistically, at this moment in time, there are people who are on the opposite sides of a conflict, who have been matchmade together into a game and don't even know it.
+113	That's an incredible opportunity to change the way we look at things.
+114	Finally, for those of you who perhaps are more cynical about all of this, who maybe don't think that virtual worlds and games are your cup of tea.
+115	There's a reality you have to accept, and that is that the economic impact of what I'm talking about will be profound.
+116	Right now, thousands of people have full-time jobs in gaming.
+117	Soon, it will be millions of people.
+118	Wherever there's a mobile phone, there will be a job.
+119	An opportunity for something that is creative and rich and gives you an income, no matter what country you're in, no matter what skills or opportunities you might think you have.
+120	Probably the first dollar most kids born today make might be in a game.
+121	That will be the new paper route, that will be the new opportunity for an income at the earliest time in your life.
+122	So I kind of want to end with almost a plea, really, more than thoughts.
+123	A sense of, I think, how we need to face this new opportunity a little differently to some we have in the past.
+124	"It's so hypocritical for yet another technologist to stand up on stage and say, ""The future will be great, technology will fix it."""
+125	And the reality is, this is going to have downsides.
+126	But those downsides will only be amplified if we approach, once again, with cynicism and derision, the opportunities that this presents.
+127	The worst thing that we could possibly do is let the same four or five companies end up dominating yet another adjacent space.
+128	(Applause)
+129	Because they're not just going to define how and who makes money from this.
+130	The reality is, we're now talking about defining how we think, what the rules are around identity and collaboration, the rules of the world we live in.
+131	This has got to be something we all own, we all cocreate.
+132	So, my final plea is really to those engineers, those scientists, those artists in the audience today.
+133	Maybe some of you dreamed of working on space travel.
+134	The reality is, there are worlds you can build right here, right now, that can transform people's lives.
+135	There are still huge technological frontiers that need to be overcome here, akin to those we faced when building the early internet.
+136	All the technology behind virtual worlds is different.
+137	So, my plea to you is this.
+138	Let's engage, let's all engage, let's actually try to make this something that we shape in a positive way, rather than once again have be done to us.
+139	Thank you.
+140	(Applause)

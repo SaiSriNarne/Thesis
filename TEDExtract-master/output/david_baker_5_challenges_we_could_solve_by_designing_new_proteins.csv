@@ -1,0 +1,77 @@
+	en
+0	I'm going to tell you about the most amazing machines in the world and what we can now do with them.
+1	Proteins, some of which you see inside a cell here, carry out essentially all the important functions in our bodies.
+2	Proteins digest your food, contract your muscles, fire your neurons and power your immune system.
+3	Everything that happens in biology — almost — happens because of proteins.
+4	Proteins are linear chains of building blocks called amino acids.
+5	Nature uses an alphabet of 20 amino acids, some of which have names you may have heard of.
+6	In this picture, for scale, each bump is an atom.
+7	Chemical forces between the amino acids cause these long stringy molecules to fold up into unique, three-dimensional structures.
+8	The folding process, while it looks random, is in fact very precise.
+9	Each protein folds to its characteristic shape each time, and the folding process takes just a fraction of a second.
+10	And it's the shapes of proteins which enable them to carry out their remarkable biological functions.
+11	For example, hemoglobin has a shape in the lungs perfectly suited for binding a molecule of oxygen.
+12	When hemoglobin moves to your muscle, the shape changes slightly and the oxygen comes out.
+13	The shapes of proteins, and hence their remarkable functions, are completely specified by the sequence of amino acids in the protein chain.
+14	In this picture, each letter on top is an amino acid.
+15	Where do these sequences come from?
+16	The genes in your genome specify the amino acid sequences of your proteins.
+17	Each gene encodes the amino acid sequence of a single protein.
+18	The translation between these amino acid sequences and the structures and functions of proteins is known as the protein folding problem.
+19	It's a very hard problem because there's so many different shapes a protein can adopt.
+20	Because of this complexity, humans have only been able to harness the power of proteins by making very small changes to the amino acid sequences of the proteins we've found in nature.
+21	This is similar to the process that our Stone Age ancestors used to make tools and other implements from the sticks and stones that we found in the world around us.
+22	But humans did not learn to fly by modifying birds.
+23	(Laughter)
+24	Instead, scientists, inspired by birds, uncovered the principles of aerodynamics.
+25	Engineers then used those principles to design custom flying machines.
+26	In a similar way, we've been working for a number of years to uncover the fundamental principles of protein folding and encoding those principles in the computer program called Rosetta.
+27	We made a breakthrough in recent years.
+28	We can now design completely new proteins from scratch on the computer.
+29	Once we've designed the new protein, we encode its amino acid sequence in a synthetic gene.
+30	We have to make a synthetic gene because since the protein is completely new, there's no gene in any organism on earth which currently exists that encodes it.
+31	Our advances in understanding protein folding and how to design proteins, coupled with the decreasing cost of gene synthesis and the Moore's law increase in computing power, now enable us to design tens of thousands of new proteins, with new shapes and new functions, on the computer, and encode each one of those in a synthetic gene.
+32	Once we have those synthetic genes, we put them into bacteria to program them to make these brand-new proteins.
+33	We then extract the proteins and determine whether they function as we designed them to and whether they're safe.
+34	It's exciting to be able to make new proteins, because despite the diversity in nature, evolution has only sampled a tiny fraction of the total number of proteins possible.
+35	I told you that nature uses an alphabet of 20 amino acids, and a typical protein is a chain of about 100 amino acids, so the total number of possibilities is 20 times 20 times 20, 100 times, which is a number on the order of 10 to the 130th power, which is enormously more than the total number of proteins which have existed since life on earth began.
+36	And it's this unimaginably large space we can now explore using computational protein design.
+37	Now the proteins that exist on earth evolved to solve the problems faced by natural evolution.
+38	For example, replicating the genome.
+39	But we face new challenges today.
+40	We live longer, so new diseases are important.
+41	We're heating up and polluting the planet, so we face a whole host of ecological challenges.
+42	If we had a million years to wait, new proteins might evolve to solve those challenges.
+43	But we don't have millions of years to wait.
+44	Instead, with computational protein design, we can design new proteins to address these challenges today.
+45	Our audacious idea is to bring biology out of the Stone Age through technological revolution in protein design.
+46	We've already shown that we can design new proteins with new shapes and functions.
+47	For example, vaccines work by stimulating your immune system to make a strong response against a pathogen.
+48	To make better vaccines, we've designed protein particles to which we can fuse proteins from pathogens, like this blue protein here, from the respiratory virus RSV.
+49	To make vaccine candidates that are literally bristling with the viral protein, we find that such vaccine candidates produce a much stronger immune response to the virus than any previous vaccines that have been tested.
+50	This is important because RSV is currently one of the leading causes of infant mortality worldwide.
+51	We've also designed new proteins to break down gluten in your stomach for celiac disease and other proteins to stimulate your immune system to fight cancer.
+52	These advances are the beginning of the protein design revolution.
+53	We've been inspired by a previous technological revolution: the digital revolution, which took place in large part due to advances in one place, Bell Laboratories.
+54	Bell Labs was a place with an open, collaborative environment, and was able to attract top talent from around the world.
+55	And this led to a remarkable string of innovations — the transistor, the laser, satellite communication and the foundations of the internet.
+56	Our goal is to build the Bell Laboratories of protein design.
+57	We are seeking to attract talented scientists from around the world to accelerate the protein design revolution, and we'll be focusing on five grand challenges.
+58	First, by taking proteins from flu strains from around the world and putting them on top of the designed protein particles I showed you earlier, we aim to make a universal flu vaccine, one shot of which gives a lifetime of protection against the flu.
+59	The ability to design —
+60	(Applause)
+61	The ability to design new vaccines on the computer is important both to protect against natural flu epidemics and, in addition, intentional acts of bioterrorism.
+62	Second, we're going far beyond nature's limited alphabet of just 20 amino acids to design new therapeutic candidates for conditions such as chronic pain, using an alphabet of thousands of amino acids.
+63	Third, we're building advanced delivery vehicles to target existing medications exactly where they need to go in the body.
+64	For example, chemotherapy to a tumor or gene therapies to the tissue where gene repair needs to take place.
+65	Fourth, we're designing smart therapeutics that can do calculations within the body and go far beyond current medicines, which are really blunt instruments.
+66	For example, to target a small subset of immune cells responsible for an autoimmune disorder, and distinguish them from the vast majority of healthy immune cells.
+67	Finally, inspired by remarkable biological materials such as silk, abalone shell, tooth and others, we're designing new protein-based materials to address challenges in energy and ecological issues.
+68	To do all this, we're growing our institute.
+69	We seek to attract energetic, talented and diverse scientists from around the world, at all career stages, to join us.
+70	"You can also participate in the protein design revolution through our online folding and design game, ""Foldit."""
+71	And through our distributed computing project, Rosetta@home, which you can join from your laptop or your Android smartphone.
+72	Making the world a better place through protein design is my life's work.
+73	I'm so excited about what we can do together.
+74	I hope you'll join us, and thank you.
+75	(Applause and cheers)

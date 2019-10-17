@@ -1,0 +1,38 @@
+	en
+0	It’s an increasingly common sight in hospitals around the world: a nurse measures our height, weight, blood pressure, and attaches a glowing plastic clip to our finger.
+1	Suddenly, a digital screen reads out the oxygen level in our bloodstream.
+2	How did that happen?
+3	How can a plastic clip learn something about our blood… without a blood sample?
+4	Here’s the trick: our bodies are translucent, meaning they don’t completely block and reflect light.
+5	Rather, they allow some light to actually pass through our skin, muscles, and blood vessels.
+6	Don’t believe it?
+7	Hold a flashlight to your thumb.
+8	Light, it turns out, can help probe the insides of our bodies.
+9	Consider that medical fingerclip— it’s called a pulse oximeter.
+10	When you inhale, your lungs transfer oxygen into hemoglobin molecules, and the pulse oximeter measures the ratio of oxygenated to oxygen-free hemoglobin.
+11	It does this by using a tiny red LED light on one side of the fingerclip, and a small light detector on the other.
+12	When the LED shines into your finger, oxygen-free hemoglobin in your blood vessels absorbs the red light more strongly than its oxygenated counterpart.
+13	So the amount of light that makes it out the other side depends on the concentration ratio of the two types of hemoglobin.
+14	But any two patients will have different-sized blood vessels in their fingers.
+15	For one patient, a saturation reading of ninety-five percent corresponds to a healthy oxygen level, but for another with smaller arteries, the same reading could dangerously misrepresent the actual oxygen level.
+16	This can be accounted for with a second infrared wavelength LED.
+17	Light comes in a vast spectrum of wavelengths, and infrared light lies just beyond the visible colors.
+18	All molecules, including hemoglobin, absorb light at different efficiencies across this spectrum.
+19	So contrasting the absorbance of red to infrared light provides a chemical fingerprint to eliminate the blood vessel size effect.
+20	Today, an emerging medical sensor industry is exploring all-new degrees of precision chemical fingerprinting, using tiny light-manipulating devices no larger than a tenth of a millimeter.
+21	This microscopic technology, called integrated photonics, is made from wires of silicon that guide light— like water in a pipe— to redirect, reshape, even temporarily trap it.
+22	A ring resonator device, which is a circular wire of silicon, is a light trapper that enhances chemical fingerprinting.
+23	When placed close to a silicon wire, a ring siphons off and temporarily stores only certain waves of light— those whose periodic wavelength fits a whole number of times along the ring’s circumference.
+24	It’s the same effect at work when we pluck guitar strings.
+25	Only certain vibrating patterns dominate a string of a particular length, to give a fundamental note and its overtones.
+26	Ring resonators were originally designed to efficiently route different wavelengths of light— each a channel of digital data— in fiber optics communication networks.
+27	But some day this kind of data traffic routing may be adapted for miniature chemical fingerprinting labs, on chips the size of a penny.
+28	These future labs-on-a-chip may easily, rapidly, and non-invasively detect a host of illnesses, by analyzing human saliva or sweat in a doctor’s office or the convenience of our homes.
+29	Human saliva in particular mirrors the composition of our bodies’ proteins and hormones, and can give early-warning signals for certain cancers and infectious and autoimmune diseases.
+30	To accurately identify an illness, labs-on-a-chip may rely on several methods, including chemical fingerprinting, to sift through the large mix of trace substances in a sample of spit.
+31	Various biomolecules in saliva absorb light at the same wavelength— but each has a distinct chemical fingerprint.
+32	In a lab-on-a-chip, after the light passes through a saliva sample, a host of fine-tuned rings may each siphon off a slightly different wavelength of light and send it to a partner light detector.
+33	Together, this bank of detectors will resolve the cumulative chemical fingerprint of the sample.
+34	From this information, a tiny on-chip computer, containing a library of chemical fingerprints for different molecules, may figure out their relative concentrations, and help diagnose a specific illness.
+35	From globe-trotting communications to labs-on-a-chip, humankind has repurposed light to both carry and extract information.
+36	Its ability to illuminate continues to astonish us with new discoveries.

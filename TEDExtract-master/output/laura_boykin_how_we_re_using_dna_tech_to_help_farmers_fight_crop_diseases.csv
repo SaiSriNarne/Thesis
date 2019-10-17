@@ -1,0 +1,127 @@
+	en
+0	I get out of bed for two reasons.
+1	One, small-scale family farmers need more food.
+2	It's crazy that in 2019 farmers that feed us are hungry.
+3	And two, science needs to be more diverse and inclusive.
+4	If we're going to solve the toughest challenges on the planet, like food insecurity for the millions living in extreme poverty, it's going to take all of us.
+5	I want to use the latest technology with the most diverse and inclusive teams on the planet to help farmers have more food.
+6	I'm a computational biologist.
+7	I know — what is that and how is it going to help end hunger?
+8	Basically, I like computers and biology and somehow, putting that together is a job.
+9	(Laughter)
+10	I don't have a story of wanting to be a biologist from a young age.
+11	The truth is, I played basketball in college.
+12	And part of my financial aid package was I needed a work-study job.
+13	So one random day, I wandered to the nearest building to my dorm room.
+14	And it just so happens it was the biology building.
+15	I went inside and looked at the job board.
+16	Yes, this is pre-the-internet.
+17	And I saw a three-by-five card advertising a job to work in the herbarium.
+18	"I quickly took down the number, because it said ""flexible hours,"" and I needed that to work around my basketball schedule."
+19	I ran to the library to figure out what an herbarium was.
+20	(Laughter)
+21	And it turns out an herbarium is where they store dead, dried plants.
+22	I was lucky to land the job.
+23	So my first scientific job was gluing dead plants onto paper for hours on end.
+24	(Laughter)
+25	It's so glamorous.
+26	This is how I became a computational biologist.
+27	During that time, genomics and computing were coming of age.
+28	And I went on to do my masters combining biology and computers.
+29	During that time, I worked at Los Alamos National Lab in the theoretical biology and biophysics group.
+30	And it was there I had my first encounter with the supercomputer, and my mind was blown.
+31	With the power of supercomputing, which is basically thousands of connected PCs on steroids, we were able to uncover the complexities of influenza and hepatitis C. And it was during this time that I saw the power of using computers and biology combined, for humanity.
+32	And I wanted this to be my career path.
+33	So, since 1999, I've spent the majority of my scientific career in very high-tech labs, surrounded by really expensive equipment.
+34	So many ask me how and why do I work for farmers in Africa.
+35	Well, because of my computing skills, in 2013, a team of East African scientists asked me to join the team in the plight to save cassava.
+36	Cassava is a plant whose leaves and roots feed 800 million people globally.
+37	And 500 million in East Africa.
+38	So that's nearly a billion people relying on this plant for their daily calories.
+39	If a small-scale family farmer has enough cassava, she can feed her family and she can sell it at the market for important things like school fees, medical expenses and savings.
+40	But cassava is under attack in Africa.
+41	Whiteflies and viruses are devastating cassava.
+42	Whiteflies are tiny insects that feed on the leaves of over 600 plants.
+43	They are bad news.
+44	There are many species; they become pesticide resistant; and they transmit hundreds of plant viruses that cause cassava brown streak disease and cassava mosaic disease.
+45	This completely kills the plant.
+46	And if there's no cassava, there's no food or income for millions of people.
+47	It took me one trip to Tanzania to realize that these women need some help.
+48	These amazing, strong, small-scale family farmers, the majority women, are doing it rough.
+49	They don't have enough food to feed their families, and it's a real crisis.
+50	What happens is they go out and plant fields of cassava when the rains come.
+51	Nine months later, there's nothing, because of these pests and pathogens.
+52	And I thought to myself, how in the world can farmers be hungry?
+53	So I decided to spend some time on the ground with the farmers and the scientists to see if I had any skills that could be helpful.
+54	The situation on the ground is shocking.
+55	The whiteflies have destroyed the leaves that are eaten for protein, and the viruses have destroyed the roots that are eaten for starch.
+56	An entire growing season will pass, and the farmer will lose an entire year of income and food, and the family will suffer a long hunger season.
+57	This is completely preventable.
+58	If the farmer knew what variety of cassava to plant in her field, that was resistant to those viruses and pathogens, they would have more food.
+59	We have all the technology we need, but the knowledge and the resources are not equally distributed around the globe.
+60	So what I mean specifically is, the older genomic technologies that have been required to uncover the complexities in these pests and pathogens — these technologies were not made for sub-Saharan Africa.
+61	They cost upwards of a million dollars; they require constant power and specialized human capacity.
+62	These machines are few and far between on the continent, which is leaving many scientists battling on the front lines no choice but to send the samples overseas.
+63	And when you send the samples overseas, samples degrade, it costs a lot of money, and trying to get the data back over weak internet is nearly impossible.
+64	So sometimes it can take six months to get the results back to the farmer.
+65	And by then, it's too late.
+66	The crop is already gone, which results in further poverty and more hunger.
+67	We knew we could fix this.
+68	In 2017, we had heard of this handheld, portable DNA sequencer called an Oxford Nanopore MinION.
+69	This was being used in West Africa to fight Ebola.
+70	So we thought: Why can't we use this in East Africa to help farmers?
+71	So, what we did was we set out to do that.
+72	At the time, the technology was very new, and many doubted we could replicate this on the farm.
+73	"When we set out to do this, one of our ""collaborators"" in the UK told us that we would never get that to work in East Africa, let alone on the farm."
+74	So we accepted the challenge.
+75	This person even went so far as to bet us two of the best bottles of champagne that we would never get that to work.
+76	Two words: pay up.
+77	(Laughter)
+78	(Applause)
+79	Pay up, because we did it.
+80	We took the entire high-tech molecular lab to the farmers of Tanzania, Kenya and Uganda, and we called it Tree Lab.
+81	So what did we do?
+82	Well, first of all, we gave ourselves a team name — it's called the Cassava Virus Action Project.
+83	We made a website, we gathered support from the genomics and computing communities, and away we went to the farmers.
+84	Everything that we need for our Tree Lab is being carried by the team here.
+85	All of the molecular and computational requirements needed to diagnose sick plants is there.
+86	And it's actually all on this stage here as well.
+87	We figured if we could get the data closer to the problem, and closer to the farmer, the quicker we could tell her what was wrong with her plant.
+88	And not only tell her what was wrong — give her the solution.
+89	And the solution is, burn the field and plant varieties that are resistant to the pests and pathogens she has in her field.
+90	So the first thing that we did was we had to do a DNA extraction.
+91	And we used this machine here.
+92	"It's called a PDQeX, which stands for ""Pretty Damn Quick Extraction."""
+93	(Laughter)
+94	I know.
+95	My friend Joe is really cool.
+96	One of the biggest challenges in doing a DNA extraction is it usually requires very expensive equipment, and takes hours.
+97	But with this machine, we've been able to do it in 20 minutes, at a fraction of the cost.
+98	And this runs off of a motorcycle battery.
+99	From there, we take the DNA extraction and prepare it into a library, getting it ready to load on to this portable, handheld genomic sequencer, which is here, and then we plug this into a mini supercomputer, which is called a MinIT.
+100	And both of these things are plugged into a portable battery pack.
+101	So we were able to eliminate the requirements of main power and internet, which are two very limiting factors on a small-scale family farm.
+102	Analyzing the data quickly can also be a problem.
+103	But this is where me being a computational biologist came in handy.
+104	All that gluing of dead plants, and all that measuring, and all that computing finally came in handy in a real-world, real-time way.
+105	I was able to make customized databases and we were able to give the farmers results in three hours versus six months.
+106	(Applause)
+107	The farmers were overjoyed.
+108	So how do we know that we're having impact?
+109	Nine moths after our Tree Lab, Asha went from having zero tons per hectare to 40 tons per hectare.
+110	She had enough to feed her family and she was selling it at the market, and she's now building a house for her family.
+111	Yeah, so cool.
+112	(Applause)
+113	So how do we scale Tree Lab?
+114	The thing is, farmers are scaled already in Africa.
+115	These women work in farmer groups, so helping Asha actually helped 3,000 people in her village, because she shared the results and also the solution.
+116	I remember every single farmer I've ever met.
+117	Their pain and their joy is engraved in my memories.
+118	Our science is for them.
+119	Tree Lab is our best attempt to help them become more food secure.
+120	I never dreamt that the best science I would ever do in my life would be on that blanket in East Africa, with the highest-tech genomic gadgets.
+121	But our team did dream that we could give farmers answers in three hours versus six months, and then we did it.
+122	Because that's the power of diversity and inclusion in science.
+123	Thank you.
+124	(Applause)
+125	(Cheers)

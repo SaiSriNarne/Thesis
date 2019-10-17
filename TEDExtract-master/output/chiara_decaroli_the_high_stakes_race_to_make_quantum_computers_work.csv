@@ -1,0 +1,42 @@
+	en
+0	The contents of this metal cylinder could either revolutionize technology or be completely useless— it all depends on whether we can harness the strange physics of matter at very, very small scales.
+1	To have even a chance of doing so, we have to control the environment precisely: the thick tabletop and legs guard against vibrations from footsteps, nearby elevators, and opening or closing doors.
+2	The cylinder is a vacuum chamber, devoid of all the gases in air.
+3	Inside the vacuum chamber is a smaller, extremely cold compartment, reachable by tiny laser beams.
+4	Inside are ultra-sensitive particles that make up a quantum computer.
+5	So what makes these particles worth the effort?
+6	In theory, quantum computers could outstrip the computational limits of classical computers.
+7	Classical computers process data in the form of bits.
+8	Each bit can switch between two states labeled zero and one.
+9	A quantum computer uses something called a qubit, which can switch between zero, one, and what’s called a superposition.
+10	While the qubit is in its superposition, it has a lot more information than one or zero.
+11	You can think of these positions as points on a sphere: the north and south poles of the sphere represent one and zero.
+12	A bit can only switch between these two poles, but when a qubit is in its superposition, it can be at any point on the sphere.
+13	We can’t locate it exactly— the moment we read it, the qubit resolves into a zero or a one.
+14	But even though we can’t observe the qubit in its superposition, we can manipulate it to perform particular operations while in this state.
+15	So as a problem grows more complicated, a classical computer needs correspondingly more bits to solve it, while a quantum computer will theoretically be able to handle more and more complicated problems without requiring as many more qubits as a classical computer would need bits.
+16	The unique properties of quantum computers result from the behavior of atomic and subatomic particles.
+17	These particles have quantum states, which correspond to the state of the qubit.
+18	Quantum states are incredibly fragile, easily destroyed by temperature and pressure fluctuations, stray electromagnetic fields, and collisions with nearby particles.
+19	That’s why quantum computers need such an elaborate set up.
+20	It’s also why, for now, the power of quantum computers remains largely theoretical.
+21	So far, we can only control a few qubits in the same place at the same time.
+22	There are two key components involved in managing these fickle quantum states effectively: the types of particles a quantum computer uses, and how it manipulates those particles.
+23	For now, there are two leading approaches: trapped ions and superconducting qubits.
+24	A trapped ion quantum computer uses ions as its particles and manipulates them with lasers.
+25	The ions are housed in a trap made of electrical fields.
+26	Inputs from the lasers tell the ions what operation to make by causing the qubit state to rotate on the sphere.
+27	To use a simplified example, the lasers could input the question: what are the prime factors of 15?
+28	In response, the ions may release photons— the state of the qubit determines whether the ion emits photons and how many photons it emits.
+29	An imaging system collects these photons and processes them to reveal the answer: 3 and 5.
+30	Superconducting qubit quantum computers do the same thing in a different way: using a chip with electrical circuits instead of an ion trap.
+31	The states of each electrical circuit translate to the state of the qubit.
+32	They can be manipulated with electrical inputs in the form of microwaves.
+33	So: the qubits come from either ions or electrical circuits, acted on by either lasers or microwaves.
+34	Each approach has advantages and disadvantages.
+35	Ions can be manipulated very precisely, and they last a long time, but as more ions are added to a trap, it becomes increasingly difficult to control each with precision.
+36	We can’t currently contain enough ions in a trap to make advanced computations, but one possible solution might be to connect many smaller traps that communicate with each other via photons rather than trying to create one big trap.
+37	Superconducting circuits, meanwhile, make operations much faster than trapped ions, and it’s easier to scale up the number of circuits in a computer than the number of ions.
+38	But the circuits are also more fragile, and have a shorter overall lifespan.
+39	And as quantum computers advance, they will still be subject to the environmental constraints needed to preserve quantum states.
+40	But in spite of all these obstacles, we’ve already succeeded at making computations in a realm we can’t enter or even observe.
